@@ -5,7 +5,7 @@
 }
 
 nav{
-    background-color: #96305a;
+    background-color: darkblue;
     padding: var(--padding large);
     display: flex;
 }
